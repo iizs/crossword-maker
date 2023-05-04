@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crossword-maker/static/css/main.073c9b0a.css",
+    "main.js": "/crossword-maker/static/js/main.68af2986.js",
+    "static/js/787.f266d76e.chunk.js": "/crossword-maker/static/js/787.f266d76e.chunk.js",
+    "static/media/logo.svg": "/crossword-maker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/crossword-maker/index.html",
+    "main.073c9b0a.css.map": "/crossword-maker/static/css/main.073c9b0a.css.map",
+    "main.68af2986.js.map": "/crossword-maker/static/js/main.68af2986.js.map",
+    "787.f266d76e.chunk.js.map": "/crossword-maker/static/js/787.f266d76e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.68af2986.js"
+  ]
+}
